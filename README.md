@@ -7,19 +7,6 @@ A simple Flask Server that is designed to detect and group products based on bra
 3. Product Grouping: Applies K-means clustering to group similar products based on visual and spatial features
 4. Visualization: Generates output images with color-coded bounding boxes indicating product groups
 
-# Project Structure
-project_root/
-│
-├── app/
-│   ├── __init__.py     # Flask app configuration
-│   ├── detection.py    # Object detection module
-│   ├── grouping.py     # Product grouping and clustering
-│   ├── routes.py       # Flask routes and API endpoints
-│   └── visualization.py # Visualization of grouped products
-│
-├── main.py             # Application entry point
-├── uploads/            # Directory for uploaded images
-└── static/             # Directory for output visualizations
 
 # Dependencies
 Flask==3.1.0
