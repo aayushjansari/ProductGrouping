@@ -60,5 +60,4 @@ pip install -r requirements.txt
 # **Contact**
 Aayush Jansari
 aayushjansari@gmail.com
-+91-9104304680
 
